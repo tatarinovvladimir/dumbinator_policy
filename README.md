@@ -18,7 +18,7 @@ For more information, read the privacy policy of these services:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Godot Engine](https://godotengine.org/privacy-policy)
+
 
 **Advertising policies**
 
